@@ -2,10 +2,10 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://vladkrasovsky.github.io/icecream",
+  "homepage": "https://IreneCreadoraclear.github.io/team_progect_ICECREAM",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /icecream/"
+    "build": "parcel build src/*.html --public-url /team_progect_ICECREAM/"
   },
   "repository": {
     "type": "git",
